@@ -179,3 +179,7 @@ div#footer p {
 				color:#ccead5;
 				text-decoration: none;
 			}
+
+a, a:visited {
+	color:#fff;
+}
